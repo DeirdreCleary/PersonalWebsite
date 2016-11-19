@@ -1,0 +1,23 @@
+{"events":[
+    {
+      "name":"HubSpot Web App Workshop",
+      "date":"18-11-2016",
+      "desc":"I attended HubSpot's Web App Workshop to learn more about web development and to get some inspiration for a new project. The event was especially for women studying computer science, which was really encouraging. Look how well it went - I designed this website!"
+    },
+    {
+      "name":"AIB Datahack",
+      "date":"12-11-2016",
+      "desc":"During my summer internship at AIB, I was involved in organising the 2016 Datahack. Unfortunately, this meant I couldn't take part, but I attended the event and helped out where I could with both the Datathon and Hackathon. A Saturday well spent!"
+    },
+    {
+      "name":"Maynooth University Programmathon",
+      "date":"04-05-2016",
+      "desc":"I attended Maynooth University's 2016 Programmathon with a team made up of one second year(me), one third year, and one fourth year. It is university policy to place a team in the highest bracket, so I was thrown in the deep end with the fourth years. I had a really great team to work with, and we came first in our category! Not bad for a second year."
+    },
+    {
+      "name":"UCC ACM's Irish Collegiate Programming Contest",
+      "date":"02-04-2016",
+      "desc":"The first programmathon I attended was the UCC ACM when I was in second year. A friend of mine in fourth year asked me to be a member of his team, and I was really excited to give it a go. We didn't win, but I learned a lot about competitive programming."
+    }
+  ]
+}
